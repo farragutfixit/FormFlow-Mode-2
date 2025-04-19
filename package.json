@@ -1,0 +1,13 @@
+{
+  "name": "conditional-dropdown-app",
+  "version": "1.0.0",
+  "description": "Standalone Conditional Dropdown Component",
+  "main": "src/components/ui/ConditionalDropdown.tsx",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "dev": "echo \"Install dependencies listed in dependencies.txt and run your React application\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}

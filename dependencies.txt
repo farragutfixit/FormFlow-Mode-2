@@ -1,0 +1,25 @@
+Required Dependencies:
+
+Frontend:
+- react
+- react-dom
+- @ant-design/icons
+- antd
+- @tanstack/react-query
+- tailwindcss
+- class-variance-authority
+- clsx
+- tailwind-merge
+- @radix-ui/react-toast
+- lucide-react
+- wouter
+
+Dev Dependencies:
+- typescript
+- @types/react
+- @types/react-dom
+- @vitejs/plugin-react
+- vite
+- autoprefixer
+- postcss
+
